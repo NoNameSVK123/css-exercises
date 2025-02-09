@@ -1,0 +1,15 @@
+.odd{
+    background-color: hsl(342, 84%, 51%);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#div1{
+    color: hsl(240, 50%, 51%);
+    font-size: 36px;
+}
+#p3, #div2{
+    font-size: 24px;
+}
+#div2{
+    background-color: hsl(120, 70%, 67%);
+    font-weight: bold;
+}
